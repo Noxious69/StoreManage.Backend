@@ -25,10 +25,22 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapPost("/newOrder", async (InventoryDB db , Order order) => new
+app.MapPost("/newOrder", async (InventoryDB db, Order order) => new
 {
-    
-});
+    order.CustomerName,
+    order.CustomerAddress,
+    order.CustomerPhone,
+    order.OrderType,
+    order.OrderColor,
+    order.OrderCount,
+    order.BoxCount,
+    order.BoxType,
+    order.Lable,
+    order.Edge,
+    order.TwoColor,
+   
+
+}) ; 
 app.UseStaticFiles();
 
 app.UseRouting();

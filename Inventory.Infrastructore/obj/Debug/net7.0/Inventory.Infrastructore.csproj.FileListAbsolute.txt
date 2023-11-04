@@ -1,0 +1,17 @@
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\bin\Debug\net7.0\Inventory.Infrastructore.deps.json
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\bin\Debug\net7.0\Inventory.Infrastructore.runtimeconfig.json
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\bin\Debug\net7.0\Inventory.Infrastructore.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\bin\Debug\net7.0\Inventory.Infrastructore.pdb
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\bin\Debug\net7.0\Inventory.Core.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\bin\Debug\net7.0\Inventory.Core.pdb
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.csproj.AssemblyReference.cache
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.AssemblyInfoInputs.cache
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.AssemblyInfo.cs
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.csproj.CoreCompileInputs.cache
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.csproj.CopyComplete
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\refint\Inventory.Infrastructore.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.pdb
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\Inventory.Infrastructore.genruntimeconfig.cache
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Infrastructore\obj\Debug\net7.0\ref\Inventory.Infrastructore.dll

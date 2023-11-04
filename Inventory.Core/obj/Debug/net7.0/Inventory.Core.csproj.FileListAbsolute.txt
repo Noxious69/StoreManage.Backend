@@ -1,7 +1,6 @@
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\bin\Debug\net7.0\Inventory.Core.deps.json
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\bin\Debug\net7.0\Inventory.Core.dll
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\bin\Debug\net7.0\Inventory.Core.pdb
-D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.csproj.AssemblyReference.cache
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.AssemblyInfoInputs.cache
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.AssemblyInfo.cs
@@ -10,3 +9,5 @@ D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\refint\Inventory.Core.dll
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.pdb
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\ref\Inventory.Core.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\bin\Debug\net7.0\Inventory.Core.runtimeconfig.json
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.genruntimeconfig.cache
