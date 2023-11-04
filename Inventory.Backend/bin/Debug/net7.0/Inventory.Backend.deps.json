@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Inventory.Backend/1.0.0": {
+        "dependencies": {
+          "Inventory.Core": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.Backend.dll": {}
+        }
+      },
+      "Inventory.Core/1.0.0": {
+        "runtime": {
+          "Inventory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory.Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

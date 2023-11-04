@@ -8,6 +8,7 @@ namespace Inventory.Core.Entities
 {
     public class Order
     {
+
         public string CustomerName { get; set; }
         public string CustomerAddress { get; set; }
         public string CustomerPhone { get; set; }
@@ -19,8 +20,15 @@ namespace Inventory.Core.Entities
         public string BoxType { get; set; }
         public string BoxCount { get; set; }
 
-        public bool Edge { get; set; }
-        public bool Lable { get; set; }
-        public bool TwoColor { get; set; }
+        public bool Edge { get; set; } = false;
+        public bool Lable { get; set; } = false;
+        public bool TwoColor { get; set; } = false;
+
+        public DateTime CreationTime { get; set; }
+
+        public Order()
+        {
+            CreationTime = DateTime.Now;
+        }
     }
 }
