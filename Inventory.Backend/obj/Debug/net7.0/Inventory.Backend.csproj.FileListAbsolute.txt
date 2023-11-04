@@ -77,3 +77,8 @@ D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\b
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Backend\obj\Debug\net7.0\Inventory.Backend.MvcApplicationPartsAssemblyInfo.cs

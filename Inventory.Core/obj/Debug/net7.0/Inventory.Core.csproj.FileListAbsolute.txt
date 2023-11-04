@@ -11,3 +11,4 @@ D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\ref\Inventory.Core.dll
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\bin\Debug\net7.0\Inventory.Core.runtimeconfig.json
 D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.genruntimeconfig.cache
+D:\Programing\1-projects\Inventory\Backend\Inventory.Backend\Inventory.Core\obj\Debug\net7.0\Inventory.Core.csproj.AssemblyReference.cache

@@ -5,14 +5,15 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+//builder.Services.AddSwaggerGen();
 builder.Services.AddRazorPages();
+
 builder.Services.AddDbContext<InventoryDB>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("MainDB"));
 });
 
 var app = builder.Build();
-
 
 
 // Configure the HTTP request pipeline.
@@ -25,20 +26,23 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapPost("/newOrder", async (InventoryDB db, Order order) => new
+app.MapPost("/newOrder", async (InventoryDB db, Order order) =>
 {
-    order.CustomerName,
-    order.CustomerAddress,
-    order.CustomerPhone,
-    order.OrderType,
-    order.OrderColor,
-    order.OrderCount,
-    order.BoxCount,
-    order.BoxType,
-    order.Lable,
-    order.Edge,
-    order.TwoColor,
-   
+    db.Order.Add(order);
+    db.SaveChanges();
+    return Results.Ok();
+
+    // order.CustomerName,
+    // order.CustomerAddress,
+    // order.CustomerPhone,
+    // order.OrderType,
+    // order.OrderColor,
+    // order.OrderCount,
+    // order.BoxCount,
+    // order.BoxType,
+    // order.Lable,
+    // order.Edge,
+    // order.TwoColor,
 
 }) ; 
 app.UseStaticFiles();
