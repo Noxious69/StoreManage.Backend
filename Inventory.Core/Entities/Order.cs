@@ -24,11 +24,6 @@ namespace Inventory.Core.Entities
         public bool Lable { get; set; } = false;
         public bool TwoColor { get; set; } = false;
 
-        public DateTime CreationTime { get; set; }
-
-        public Order()
-        {
-            CreationTime = DateTime.Now;
-        }
+        
     }
 }

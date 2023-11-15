@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 //builder.Services.AddSwaggerGen();
+
 builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<InventoryDB>(options =>
@@ -13,15 +14,21 @@ builder.Services.AddDbContext<InventoryDB>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MainDB"));
 });
 
+builder.Services.AddCors(options => options.AddDefaultPolicy(builder =>
+               builder.
+               AllowAnyHeader().
+               AllowAnyOrigin().
+               AllowAnyMethod()));
+
 var app = builder.Build();
 
+app.UseCors();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
