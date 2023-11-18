@@ -1,3 +1,4 @@
+using Inventory.Backend.DTOs;
 using Inventory.Core.Entities;
 using Inventory.Infrastructore.DataBase;
 using Microsoft.EntityFrameworkCore;
@@ -33,7 +34,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapPost("/newOrder", async (InventoryDB db, Order order) =>
+app.MapPost("/neworder", (InventoryDB db, Order order) =>
 {
     db.Order.Add(order);
     db.SaveChanges();
@@ -51,7 +52,23 @@ app.MapPost("/newOrder", async (InventoryDB db, Order order) =>
     // order.Edge,
     // order.TwoColor,
 
-}) ; 
+}) ;
+
+app.MapPost("/list", (InventoryDB db, OrderResultDto result) =>
+{
+    result.Show = true;
+    return Results.Ok(db.Order.ToList());
+
+    //if (db.Order.Any())
+    //{
+    //  result.Show = true;
+    //}
+    //else
+    //{
+    //  result.Show =false;
+    //}
+
+});
 app.UseStaticFiles();
 
 app.UseRouting();

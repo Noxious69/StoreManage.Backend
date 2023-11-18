@@ -18,7 +18,7 @@ namespace Inventory.Core.Entities
         public int OrderCount { get; set; }
 
         public string BoxType { get; set; }
-        public string BoxCount { get; set; }
+        public int BoxCount { get; set; }
 
         public bool Edge { get; set; } = false;
         public bool Lable { get; set; } = false;
