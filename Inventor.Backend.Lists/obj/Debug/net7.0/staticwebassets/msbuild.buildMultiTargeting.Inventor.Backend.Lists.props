@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inventor.Backend.Lists.props" />
+</Project>

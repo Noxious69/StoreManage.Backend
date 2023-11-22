@@ -2,6 +2,6 @@
 {
     public class OrderResultDto
     {
-        public bool Show { get; set; } = false ;
+        public bool IsOk { get; set; } = false ;
     }
 }

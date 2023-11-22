@@ -17,5 +17,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Inventory.Infrastructore\Inventory.Infrastructore.csproj" />
   </ItemGroup>
-
 </Project>
