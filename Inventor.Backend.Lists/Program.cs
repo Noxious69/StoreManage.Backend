@@ -33,33 +33,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
-app.MapPost("/lists", async (InventoryDB db) =>
-{
-    return Results.Ok(db.Order
-        .ToList());
 
-    //    if (db.Order.Any())
-    //    {
-    //        Results.Ok(db.Order.ToList());
-    //
-    //        Results.Ok(new OrderResultDto
-    //        {
-    //            IsOk = true
-    //        });
-    //    }
-    //    else
-    //   {
-    //        Results.Ok(new OrderResultDto
-    //        {
-    //            IsOk = false
-    //        });
-    //    }
-    //
-    //    db.SaveChanges();
-    //    return Results.Ok();
-});
+
 app.Run();
 
 

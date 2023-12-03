@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rE2erxXVD8lVvSTZ8l4pPYp7qU4EMxv7Lko92nD5sEGLfF6zFdl3+z8Ep6Q8okO7iBsw6jjZ8kZW+9uKKs0nTQ==",
+  "dgSpecHash": "vGsN5JAG2+K9H7oMjshZynX0ZZ4tdU4vC8Pyu2YauOfayapJq9OsxJrq0ZixkVpewgJ8w1IF1G3mkzozaGSPPQ==",
   "success": true,
-  "projectFilePath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj",
+  "projectFilePath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

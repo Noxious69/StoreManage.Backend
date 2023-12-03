@@ -26,9 +26,8 @@ namespace Inventory.Infrastructore.Migrations
                     b.Property<string>("CustomerName")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("BoxCount")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("BoxCount")
+                        .HasColumnType("int");
 
                     b.Property<string>("BoxType")
                         .IsRequired()

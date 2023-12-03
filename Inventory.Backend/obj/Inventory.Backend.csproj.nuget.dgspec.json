@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj": {}
+    "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj": {}
   },
   "projects": {
-    "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj": {
+    "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj",
+        "projectUniqueName": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj",
         "projectName": "Inventory.Backend",
-        "projectPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj",
+        "projectPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\obj\\",
+        "outputPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj": {
-                "projectPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj"
+              "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj": {
+                "projectPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj": {
+    "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj",
+        "projectUniqueName": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj",
         "projectName": "Inventory.Core",
-        "projectPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj",
+        "projectPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\obj\\",
+        "outputPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,14 +163,14 @@
         }
       }
     },
-    "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj": {
+    "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj",
+        "projectUniqueName": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj",
         "projectName": "Inventory.Infrastructore",
-        "projectPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj",
+        "projectPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\Inventory.Infrastructore.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\obj\\",
+        "outputPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Infrastructore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,8 +192,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj": {
-                "projectPath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj"
+              "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj": {
+                "projectPath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Core\\Inventory.Core.csproj"
               }
             }
           }

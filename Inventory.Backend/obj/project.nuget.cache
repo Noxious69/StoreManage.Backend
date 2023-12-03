@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X+5u4HL0EczAju53dXgOxIzQvIbgh/jiiIix+eEETXt5gyzsEQ0G5v7IBcXV1f8vWQCCyF+xXMIOJbDb8hf7fQ==",
+  "dgSpecHash": "x6nOB6RedbAzeHgHMr/cXbj6rTd63k0lhjL3jGd0QiLtw7xQbuoS0KyLokImOs6/tOvUKpdH/yPcQxkHXMAS4g==",
   "success": true,
-  "projectFilePath": "D:\\Programing\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj",
+  "projectFilePath": "D:\\Work\\Code\\1-projects\\Inventory\\Backend\\Inventory.Backend\\Inventory.Backend\\Inventory.Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
